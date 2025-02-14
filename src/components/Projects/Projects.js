@@ -44,7 +44,7 @@ function Projects() {
               title="Airbnb Clone"
               description="Airbnb clone web app using HTML and CSS to replicate the design and functionality of the popular rental platform. This project involved creating a clean, responsive layout with a focus on user experience and visual appeal. 
               It enhanced my ability to build modern, adaptable user interfaces."
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/AbhinavSinghRaj/AI_For_Social_Good"
               
             />
           </Col>
@@ -56,7 +56,7 @@ function Projects() {
               title="Todo List"
               description="To-Do list web application using HTML, CSS, and JavaScript, which allows users to efficiently manage their tasks. The project enhances my skills in creating intuitive user interfaces and working with dynamic data using JavaScript.
                Through this app, I improved my ability to structure web layouts with CSS and manage user interactions in a seamless manner."
-              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              // ghLink="https://github.com/AbhinavSinghRaj/Face_And_Emotion_Detection"
               
             />
           </Col>
